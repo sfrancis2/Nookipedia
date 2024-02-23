@@ -1,0 +1,66 @@
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.AssemblyReference.cache
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.CreatureView.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.EditMuseumView.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.FossilView.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.Nookipedia.Form1.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.VillagerView.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.GenerateResource.cache
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.AssemblyInfoInputs.cache
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.AssemblyInfo.cs
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.CoreCompileInputs.cache
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.exe
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.deps.json
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.runtimeconfig.json
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.pdb
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.CopyComplete
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\refint\Nookipedia.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.pdb
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.genruntimeconfig.cache
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\ref\Nookipedia.dll
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.SignUpView.resources
+C:\Users\Shy\Documents\Fall 2023\Files and Database\Nookipedia\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.UserView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.AssemblyReference.cache
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.CreatureView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.EditMuseumView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.FossilView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.Nookipedia.Form1.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.SignUpView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.UserView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.VillagerView.resources
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.GenerateResource.cache
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.AssemblyInfoInputs.cache
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.AssemblyInfo.cs
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.CoreCompileInputs.cache
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\refint\Nookipedia.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.pdb
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.exe
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.deps.json
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.runtimeconfig.json
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Nookipedia.pdb
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.csproj.CopyComplete
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\Nookipedia.genruntimeconfig.cache
+C:\Users\Shy\Documents\Spring 2024\Senior Project\Nookipedia\obj\Debug\net6.0-windows\ref\Nookipedia.dll
